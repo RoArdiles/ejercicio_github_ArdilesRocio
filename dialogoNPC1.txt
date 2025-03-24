@@ -3,3 +3,5 @@
 Por lo que veo eres nuevo en el pueblo.
 
 ¿Te gustaria ayudarme con una pequeña tarea? tengo unos suministros que necesito entregar al anciano en la colina.
+
+["dialogoNPC-NO"]
